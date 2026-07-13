@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(export NDK_ROOT=$HOME/android-ndk-cache/android-ndk-r29)",
+      "Bash(export API=35)",
+      "Bash(export PROJECT=blazer-CP2A.260605.012)",
+      "Bash(make)",
+      "Bash(make CC=clang --target=aarch64-linux-android35 *)",
+      "Bash(git checkout *)"
+    ]
+  }
+}
