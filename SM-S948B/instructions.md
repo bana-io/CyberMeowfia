@@ -1,4 +1,4 @@
-Some information:
+## Information
 
 1. The device I am using is the Samsung S26 Ultra (SM-S948B).
 2. Kernel version is `6.12.69-android16-6-p8021103-abogkiS948BXXU3ZZF7-4k`.
